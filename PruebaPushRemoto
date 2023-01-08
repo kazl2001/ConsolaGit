@@ -1,0 +1,4 @@
+def hello:
+    return "hello mi gente de consola"
+def greeting:
+    return "Welcome, Sanjula klk tu hace mi amigooo local!"
